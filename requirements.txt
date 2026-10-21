@@ -1,0 +1,15 @@
+# Requirements for the five appendix notebooks in this repository (Python 3.12).
+#
+#   python3 -m venv .venv
+#   .venv/bin/pip install -r requirements.txt
+#   .venv/bin/jupyter lab
+#
+# Versions are pinned to the ones the committed notebook outputs were produced with
+# (jupyterlab is pinned to the current stable release - any recent Jupyter works).
+
+pandas==3.0.3        # every notebook: tables and analysis
+datasets==5.0.0      # notebooks 01, 03, 04: the pinned Hugging Face corpus
+scipy==1.18.0        # notebooks 04, 05: exact binomial intervals, Fisher's exact test, Wald z-test
+openai==2.46.0       # notebooks 02, 03: the model-run cells (guarded by RUN_MODEL = False)
+python-dotenv==1.2.2 # notebooks 02, 03: reads VLLM_QWEN35_BASE_URL from a .env file, if present
+jupyterlab==4.6.3    # to open and run the notebooks

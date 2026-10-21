@@ -1,0 +1,23 @@
+# secrets and local environment
+.env
+.venv/
+.claude/
+CLAUDE.md
+
+# notebook clutter
+.ipynb_checkpoints/
+
+# regenerated locally, never committed: decision texts are public via the pinned
+# Hugging Face corpus, and per-case model outputs stay with the research archive
+data/cases/
+data/labels/
+data/qwen_vllm/
+data/production_qwen/
+data/qwen_review_project_*.json
+
+# paper drafts
+draft/
+
+# temporary
+temp/
+

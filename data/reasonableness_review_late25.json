@@ -1,0 +1,604 @@
+{
+ "labels": [
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-001",
+   "answers": {
+    "jr_reasonable": "Yes: the model's code is reasonable",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 12:35:04",
+   "doc_title": "2011 FC 1340",
+   "doc_meta": {
+    "citation": "2011 FC 1340",
+    "url": "https://decisions.fct-cf.gc.ca/fc-cf/decisions/en/item/60192/index.do",
+    "tribunal": "FC",
+    "uid": "FC_00378",
+    "document_date": "2011-11-22",
+    "qwen_jr_refugee": "a",
+    "qwen_timing": "a",
+    "qwen_outcome": "b",
+    "qwen_basis": "d"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-002",
+   "answers": {
+    "jr_reasonable": "Yes: the model's code is reasonable",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 12:37:32",
+   "doc_title": "2015 FC 1099",
+   "doc_meta": {
+    "citation": "2015 FC 1099",
+    "url": "https://decisions.fct-cf.gc.ca/fc-cf/decisions/en/item/119924/index.do",
+    "tribunal": "FC",
+    "uid": "FC_07089",
+    "document_date": "2015-09-22",
+    "qwen_jr_refugee": "a",
+    "qwen_timing": "a",
+    "qwen_outcome": "a",
+    "qwen_basis": "b"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-003",
+   "answers": {
+    "jr_reasonable": "Yes: the model's code is reasonable",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 12:49:15",
+   "doc_title": "2025 FC 1878",
+   "doc_meta": {
+    "citation": "2025 FC 1878",
+    "url": "https://norma.lexum.com/fc-cf/decisions/en/item/529395/index.do",
+    "tribunal": "FC",
+    "uid": "FC_07673",
+    "document_date": "2025-11-26",
+    "qwen_jr_refugee": "a",
+    "qwen_timing": "a",
+    "qwen_outcome": "b",
+    "qwen_basis": "d"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-004",
+   "answers": {
+    "jr_reasonable": "Yes: the model's code is reasonable",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 12:56:02",
+   "doc_title": "2024 FC 116",
+   "doc_meta": {
+    "citation": "2024 FC 116",
+    "url": "https://decisions.fct-cf.gc.ca/fc-cf/decisions/en/item/525096/index.do",
+    "tribunal": "FC",
+    "uid": "FC_15441",
+    "document_date": "2024-02-07",
+    "qwen_jr_refugee": "a",
+    "qwen_timing": "a",
+    "qwen_outcome": "b",
+    "qwen_basis": "d"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-005",
+   "answers": {
+    "jr_reasonable": "Yes: the model's code is reasonable",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 13:20:58",
+   "doc_title": "2021 FC 545",
+   "doc_meta": {
+    "citation": "2021 FC 545",
+    "url": "https://decisions.fct-cf.gc.ca/fc-cf/decisions/en/item/498370/index.do",
+    "tribunal": "FC",
+    "uid": "FC_21319",
+    "document_date": "2021-06-04",
+    "qwen_jr_refugee": "a",
+    "qwen_timing": "a",
+    "qwen_outcome": "b",
+    "qwen_basis": "d"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-006",
+   "answers": {
+    "jr_reasonable": "Yes: the model's code is reasonable",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": "Claim was not framed as gender based, but there was custodial sexual vioence",
+   "created_at": "2026-08-14 13:24:29",
+   "doc_title": "2023 FC 1216",
+   "doc_meta": {
+    "citation": "2023 FC 1216",
+    "url": "https://decisions.fct-cf.gc.ca/fc-cf/decisions/en/item/524088/index.do",
+    "tribunal": "FC",
+    "uid": "FC_23144",
+    "document_date": "2023-09-08",
+    "qwen_jr_refugee": "a",
+    "qwen_timing": "a",
+    "qwen_outcome": "b",
+    "qwen_basis": "a"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-007",
+   "answers": {
+    "jr_reasonable": "Yes: the model's code is reasonable",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 13:27:47",
+   "doc_title": "2022 FC 564",
+   "doc_meta": {
+    "citation": "2022 FC 564",
+    "url": "https://decisions.fct-cf.gc.ca/fc-cf/decisions/en/item/521326/index.do",
+    "tribunal": "FC",
+    "uid": "FC_24384",
+    "document_date": "2022-04-20",
+    "qwen_jr_refugee": "a",
+    "qwen_timing": "a",
+    "qwen_outcome": "b",
+    "qwen_basis": "d"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-008",
+   "answers": {
+    "jr_reasonable": "Yes: the model's code is reasonable",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 13:29:29",
+   "doc_title": "2006 FC 325",
+   "doc_meta": {
+    "citation": "2006 FC 325",
+    "url": "https://decisions.fct-cf.gc.ca/fc-cf/decisions/en/item/43279/index.do",
+    "tribunal": "FC",
+    "uid": "FC_35338",
+    "document_date": "2006-03-14",
+    "qwen_jr_refugee": "a",
+    "qwen_timing": "a",
+    "qwen_outcome": "b",
+    "qwen_basis": "e"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-009",
+   "answers": {
+    "jr_reasonable": "Not applicable (this question has no code for this case)",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 13:31:56",
+   "doc_title": "TB9-30660",
+   "doc_meta": {
+    "citation": "TB9-30660",
+    "url": "3444073.txt",
+    "tribunal": "RAD",
+    "uid": "RAD_00421",
+    "document_date": "2021-01-25",
+    "qwen_jr_refugee": null,
+    "qwen_timing": "a",
+    "qwen_outcome": "a",
+    "qwen_basis": "d"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-010",
+   "answers": {
+    "jr_reasonable": "Not applicable (this question has no code for this case)",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 13:33:08",
+   "doc_title": "TB9-34894",
+   "doc_meta": {
+    "citation": "TB9-34894",
+    "url": "TB9-34894a.txt",
+    "tribunal": "RAD",
+    "uid": "RAD_01107",
+    "document_date": "2021-03-23",
+    "qwen_jr_refugee": null,
+    "qwen_timing": "a",
+    "qwen_outcome": "a",
+    "qwen_basis": "a"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-011",
+   "answers": {
+    "jr_reasonable": "Not applicable (this question has no code for this case)",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 15:05:59",
+   "doc_title": "TB9-14016",
+   "doc_meta": {
+    "citation": "TB9-14016",
+    "url": "TB9-14016e.txt",
+    "tribunal": "RAD",
+    "uid": "RAD_02001",
+    "document_date": "2020-09-21",
+    "qwen_jr_refugee": null,
+    "qwen_timing": "a",
+    "qwen_outcome": "b",
+    "qwen_basis": "b"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-012",
+   "answers": {
+    "jr_reasonable": "Not applicable (this question has no code for this case)",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 15:08:30",
+   "doc_title": "TC0-10646",
+   "doc_meta": {
+    "citation": "TC0-10646",
+    "url": "TC0-10646 a.txt",
+    "tribunal": "RAD",
+    "uid": "RAD_03307",
+    "document_date": "2021-11-17",
+    "qwen_jr_refugee": null,
+    "qwen_timing": "a",
+    "qwen_outcome": "b",
+    "qwen_basis": "b"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-013",
+   "answers": {
+    "jr_reasonable": "Not applicable (this question has no code for this case)",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 15:09:45",
+   "doc_title": "TB3-07266",
+   "doc_meta": {
+    "citation": "TB3-07266",
+    "url": "1754197.txt",
+    "tribunal": "RAD",
+    "uid": "RAD_05005",
+    "document_date": "2013-12-30",
+    "qwen_jr_refugee": null,
+    "qwen_timing": "a",
+    "qwen_outcome": "b",
+    "qwen_basis": "d"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-014",
+   "answers": {
+    "jr_reasonable": "Not applicable (this question has no code for this case)",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 15:11:05",
+   "doc_title": "TB7-19582",
+   "doc_meta": {
+    "citation": "TB7-19582",
+    "url": "2931647.txt",
+    "tribunal": "RAD",
+    "uid": "RAD_06781",
+    "document_date": "2018-08-03",
+    "qwen_jr_refugee": null,
+    "qwen_timing": "a",
+    "qwen_outcome": "b",
+    "qwen_basis": "a"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-015",
+   "answers": {
+    "jr_reasonable": "Not applicable (this question has no code for this case)",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 15:29:21",
+   "doc_title": "MB9-02545",
+   "doc_meta": {
+    "citation": "MB9-02545",
+    "url": "3419355.txt",
+    "tribunal": "RAD",
+    "uid": "RAD_07556",
+    "document_date": "2020-07-27",
+    "qwen_jr_refugee": null,
+    "qwen_timing": "a",
+    "qwen_outcome": "b",
+    "qwen_basis": "d"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-016",
+   "answers": {
+    "jr_reasonable": "Not applicable (this question has no code for this case)",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 15:40:51",
+   "doc_title": "MB9-04875",
+   "doc_meta": {
+    "citation": "MB9-04875",
+    "url": "3254470.txt",
+    "tribunal": "RAD",
+    "uid": "RAD_08739",
+    "document_date": "2019-12-20",
+    "qwen_jr_refugee": null,
+    "qwen_timing": "a",
+    "qwen_outcome": "b",
+    "qwen_basis": "d"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-017",
+   "answers": {
+    "jr_reasonable": "Not applicable (this question has no code for this case)",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 16:25:19",
+   "doc_title": "MB5-00120",
+   "doc_meta": {
+    "citation": "MB5-00120",
+    "url": "1850900.txt",
+    "tribunal": "RAD",
+    "uid": "RAD_09735",
+    "document_date": "2015-07-16",
+    "qwen_jr_refugee": null,
+    "qwen_timing": "a",
+    "qwen_outcome": "b",
+    "qwen_basis": "b"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-018",
+   "answers": {
+    "jr_reasonable": "Not applicable (this question has no code for this case)",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 16:27:19",
+   "doc_title": "MB4-04409",
+   "doc_meta": {
+    "citation": "MB4-04409",
+    "url": "1785878.txt",
+    "tribunal": "RAD",
+    "uid": "RAD_09842",
+    "document_date": "2015-03-02",
+    "qwen_jr_refugee": null,
+    "qwen_timing": "a",
+    "qwen_outcome": "b",
+    "qwen_basis": "d"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-019",
+   "answers": {
+    "jr_reasonable": "Not applicable (this question has no code for this case)",
+    "timing_reasonable": "No: the model's code is not reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": "timing category is borderline. Depends on how one interprets this sentence: \"The RPD found that the Appellant's delay in claiming refugee protection indicated a lack of legitimate fear of persecution because the Appellant claims to have feared the authorities in Syria since 2011 yet traveled to the United States, Canada and Italy since 2011 without claiming asylum.\" He arrived most recently in 2016 and most likely claimed in 2016 -- but the other sentence suggests another visit to Canada. The most likely timeline for another visit to Canada at some point from 2011 on, would result in 1 year +. However, if the visit came at the end of the range, then it would not be. I went back and forth on this one a lot, but I think (c) is really the only viable option, even if I can understand why the model said (a).",
+   "created_at": "2026-08-14 16:43:29",
+   "doc_title": "MB7-04078",
+   "doc_meta": {
+    "citation": "MB7-04078",
+    "url": "3060442.txt",
+    "tribunal": "RAD",
+    "uid": "RAD_10024",
+    "document_date": "2019-01-29",
+    "qwen_jr_refugee": null,
+    "qwen_timing": "a",
+    "qwen_outcome": "a",
+    "qwen_basis": "b"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-020",
+   "answers": {
+    "jr_reasonable": "Not applicable (this question has no code for this case)",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 16:44:37",
+   "doc_title": "TB6-08523",
+   "doc_meta": {
+    "citation": "TB6-08523",
+    "url": "2782509.txt",
+    "tribunal": "RAD",
+    "uid": "RAD_10988",
+    "document_date": "2016-10-11",
+    "qwen_jr_refugee": null,
+    "qwen_timing": "a",
+    "qwen_outcome": "b",
+    "qwen_basis": "b"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-021",
+   "answers": {
+    "jr_reasonable": "Not applicable (this question has no code for this case)",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 16:45:44",
+   "doc_title": "TB5-08187",
+   "doc_meta": {
+    "citation": "TB5-08187",
+    "url": "2245445.txt",
+    "tribunal": "RAD",
+    "uid": "RAD_11327",
+    "document_date": "2015-10-23",
+    "qwen_jr_refugee": null,
+    "qwen_timing": "a",
+    "qwen_outcome": "b",
+    "qwen_basis": "d"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-022",
+   "answers": {
+    "jr_reasonable": "Not applicable (this question has no code for this case)",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": "I would personally code basis as (a) because the claimant is identified as a woman's rights activist. However, the RPD deals with the case exclusively in terms of political opinion, and never specifically addressed gender based harms, and so (d) is reasonable.",
+   "created_at": "2026-08-14 16:48:57",
+   "doc_title": "2022 RLLR 18",
+   "doc_meta": {
+    "citation": "2022 RLLR 18",
+    "url": "https://refugeelab.ca/rllr/2022rllr18",
+    "tribunal": "RLLR",
+    "uid": "RLLR_00158",
+    "document_date": "2022-02-10",
+    "qwen_jr_refugee": null,
+    "qwen_timing": "a",
+    "qwen_outcome": "a",
+    "qwen_basis": "d"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-023",
+   "answers": {
+    "jr_reasonable": "Not applicable (this question has no code for this case)",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 16:50:17",
+   "doc_title": "2022 RLLR 58",
+   "doc_meta": {
+    "citation": "2022 RLLR 58",
+    "url": "https://refugeelab.ca/rllr/2022rllr58",
+    "tribunal": "RLLR",
+    "uid": "RLLR_00199",
+    "document_date": "2022-10-07",
+    "qwen_jr_refugee": null,
+    "qwen_timing": "a",
+    "qwen_outcome": "a",
+    "qwen_basis": "d"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-024",
+   "answers": {
+    "jr_reasonable": "Not applicable (this question has no code for this case)",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 16:52:30",
+   "doc_title": "TA4-07971",
+   "doc_meta": {
+    "citation": "TA4-07971",
+    "url": "1081182.txt",
+    "tribunal": "RPD",
+    "uid": "RPD_04080",
+    "document_date": "2006-08-08",
+    "qwen_jr_refugee": null,
+    "qwen_timing": "a",
+    "qwen_outcome": "b",
+    "qwen_basis": "a"
+   }
+  },
+  {
+   "project_id": "late_claims_25_reasonablness_review",
+   "doc_id": "lc25-025",
+   "answers": {
+    "jr_reasonable": "Not applicable (this question has no code for this case)",
+    "timing_reasonable": "Yes: the model's code is reasonable",
+    "outcome_reasonable": "Yes: the model's code is reasonable",
+    "basis_reasonable": "Yes: the model's code is reasonable"
+   },
+   "comments": null,
+   "created_at": "2026-08-14 16:54:48",
+   "doc_title": "TA4-14542",
+   "doc_meta": {
+    "citation": "TA4-14542",
+    "url": "639780.txt",
+    "tribunal": "RPD",
+    "uid": "RPD_04186",
+    "document_date": "2006-09-01",
+    "qwen_jr_refugee": null,
+    "qwen_timing": "a",
+    "qwen_outcome": "b",
+    "qwen_basis": "d"
+   }
+  }
+ ]
+}
