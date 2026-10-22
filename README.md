@@ -2,7 +2,9 @@
 
 **Author**: Sean Rehaag
 
-**Date of Last Update**: October 20, 2026
+**Date of Last Update**: October 22, 2026
+
+**Link to Working Paper**: [SSRN](https://ssrn.com/abstract=7650958))
 
 Bill C-12, the ['Strengthening Canada's Immigration System and Borders Act'](https://www.parl.ca/legisinfo/en/bill/45-1/c-12), 
 makes refugee claims ineligible for referral to the Immigration and Refugee Board
