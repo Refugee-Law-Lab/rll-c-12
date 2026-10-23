@@ -1,10 +1,12 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2401.12345-b31b1b.svg)](https://arxiv.org/abs/2610.30297)
+
 # Replication Appendices — Refugee Law Lab Bill C-12 Study
 
 **Author**: Sean Rehaag
 
 **Date of Last Update**: October 22, 2026
 
-**Link to Working Paper**: [SSRN](https://ssrn.com/abstract=7650958)
+**Link to Working Paper**: [SSRN](https://ssrn.com/abstract=7650958) or [arXiv](https://arxiv.org/abs/2610.30297)
 
 Bill C-12, the ['Strengthening Canada's Immigration System and Borders Act'](https://www.parl.ca/legisinfo/en/bill/45-1/c-12), 
 makes refugee claims ineligible for referral to the Immigration and Refugee Board
